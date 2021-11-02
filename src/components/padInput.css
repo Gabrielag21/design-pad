@@ -1,0 +1,60 @@
+.padInput {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+#pad1 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+
+}
+
+#pad2 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+
+}
+#pad3 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+
+}
+#pad4 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+}
+#pad5 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+}
+#pad6 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+}
+#pad7 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+}
+#pad8 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+}
+#pad9 {
+    background-color: darkgrey;
+    height: 200;
+    width: 200;
+
+}
